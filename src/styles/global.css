@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 4rem;
+}
+
+input[type="checkbox"] {
+  width: 40px;
+  height: 40px;
+}
